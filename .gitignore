@@ -1,0 +1,16 @@
+# Build Products
+obj/
+bin/
+
+# Visual Studio
+.vs/
+
+# NuGet
+/packages/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# OS X
+.DS_Store
